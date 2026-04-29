@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260428-172248-j0vt",
+      "title": "Foxy Pikachu, Summar Stormcaller",
+      "commanders": [
+        "Foxy Pikachu",
+        "Summar Stormcaller"
+      ],
+      "dateStart": "2026-04-29T00:22:48.000Z",
+      "dateEnd": "2026-04-29T01:37:26.000Z",
+      "dateLabel": "4/28/2026, 5:22:48 PM - 4/28/2026, 6:37:26 PM",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260428-172248-j0vt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260422-192442-wud3",
       "title": "Foxy Pikachu",
       "commanders": [
