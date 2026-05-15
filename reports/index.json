@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-122023-83aw",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-05-15T00:20:23.000Z",
+      "dateEnd": "2026-05-15T01:27:46.000Z",
+      "dateLabel": "15/05/2026, 12:20:23 - 15/05/2026, 13:27:46",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260515-122023-83aw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260510-121129-p1gn",
       "title": "Foxy Pikachu",
       "commanders": [
