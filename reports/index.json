@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260519-195638-dx14",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "dateStart": "2026-05-19T07:56:38.000Z",
+      "dateEnd": "2026-05-19T09:28:05.000Z",
+      "dateLabel": "19/05/2026, 19:56:38 - 19/05/2026, 21:28:05",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260519-195638-dx14",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260519-195638-6l31",
       "title": "J A Z Z Z Z Z",
       "commanders": [
