@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-202046-2c3c",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "dateStart": "2026-05-27T08:20:46.000Z",
+      "dateEnd": "2026-05-27T09:37:50.000Z",
+      "dateLabel": "27/05/2026, 20:20:46 - 27/05/2026, 21:37:50",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260527-202046-2c3c",
+      "summary": {
+        "borderlandsPct": 0.38461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260525-201706-xwwm",
       "title": "J A Z Z Z Z Z",
       "commanders": [
