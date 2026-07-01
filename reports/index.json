@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-122616-ic3n",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-07-01T00:26:16.000Z",
+      "dateEnd": "2026-07-01T01:19:21.000Z",
+      "dateLabel": "01/07/2026, 12:26:16 - 01/07/2026, 13:19:21",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260701-122616-ic3n",
+      "summary": {
+        "borderlandsPct": 0.26136363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 65,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260630-120807-lipe",
       "title": "Brinmoza, Foxy Pikachu",
       "commanders": [
