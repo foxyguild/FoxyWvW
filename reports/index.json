@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-124625-6pij",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-07-16T00:46:25.000Z",
+      "dateEnd": "2026-07-16T01:38:46.000Z",
+      "dateLabel": "16/07/2026, 12:46:25 - 16/07/2026, 13:38:46",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260716-124625-6pij",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 45,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260704-141340-xyec",
       "title": "Foxy Pikachu",
       "commanders": [
