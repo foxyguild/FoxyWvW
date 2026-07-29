@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-143659-pavz",
+      "title": "John The Whiteheart",
+      "commanders": [
+        "John The Whiteheart"
+      ],
+      "dateStart": "2026-07-29T02:36:59.000Z",
+      "dateEnd": "2026-07-29T03:11:50.000Z",
+      "dateLabel": "29/07/2026, 14:36:59 - 29/07/2026, 15:11:50",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260729-143659-pavz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260728-142704-1644",
       "title": "Foxy Pikachu",
       "commanders": [
