@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-153157-y9wz",
+      "title": "Foxy Pikachu",
+      "commanders": [
+        "Foxy Pikachu"
+      ],
+      "dateStart": "2026-08-01T03:31:57.000Z",
+      "dateEnd": "2026-08-01T04:38:54.000Z",
+      "dateLabel": "01/08/2026, 15:31:57 - 01/08/2026, 16:38:54",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20260801-153157-y9wz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 37,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260731-124554-mak3",
       "title": "Bebsie, Foxy Pikachu",
       "commanders": [
