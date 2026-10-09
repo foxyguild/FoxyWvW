@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261009-145251-cor4",
+      "title": "Foxy Pika Pikachu, Smart Bastid",
+      "commanders": [
+        "Foxy Pika Pikachu",
+        "Smart Bastid"
+      ],
+      "dateStart": "2026-10-09T01:52:51.000Z",
+      "dateEnd": "2026-10-09T03:03:45.000Z",
+      "dateLabel": "09/10/2026, 14:52:51 - 09/10/2026, 16:03:45",
+      "url": "https://foxyguild.github.io/FoxyWvW/?report=20261009-145251-cor4",
+      "summary": {
+        "borderlandsPct": 0.7954545454545454,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261008-164356-3a45",
       "title": "Foxy Pika Pikachu",
       "commanders": [
